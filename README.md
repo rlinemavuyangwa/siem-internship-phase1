@@ -1,5 +1,5 @@
 HEAD
-# 🛡️ Cybersecurity Internship – Phase 1 Report
+# 🛡️ Cybersecurity Projects – Phase 1 Report
 
 **Intern:** Rulane Hlongwani  
 **Focus:** Virtual Cybersecurity Lab Setup, Log Analysis, and Threat Detection  
