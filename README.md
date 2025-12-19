@@ -81,7 +81,7 @@ On **Windows 10 VM (Agent):**
 
 _This marks the completion of Phase 1. I'm pushing this work to GitHub to track progress and share my learning journey._
 
-# 🛍️ OpenCart Lab Setup – SIEM Internship Phase 1
+# 🛍️ OpenCart Lab Setup – SIEM Project Phase 1
 
 Welcome to my lab project! This repository documents my hands-on journey setting up and installing **OpenCart** within a custom-built virtual lab as part of my **SIEM Internship – Phase 1**. This project involved real troubleshooting, Linux usage, file sharing via VirtualBox, and publishing everything using Git and GitHub.
 
